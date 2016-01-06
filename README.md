@@ -1,4 +1,4 @@
-# solutions.median.cpp
+# solution.median.cpp
 Solution to task median.cpp
 
 To build the solution execute the script create_solution.sh.
