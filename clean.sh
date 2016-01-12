@@ -1,1 +1,1 @@
-rm -rf median.cpp
+rm -rf solution
