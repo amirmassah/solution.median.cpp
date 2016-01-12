@@ -1,4 +1,4 @@
-# solution.xor.systemc
+# solution.median.cpp
 Solution for task median.cpp
 
 To build the solution execute the script create_solution.sh.
